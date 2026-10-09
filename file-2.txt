@@ -1,1 +1,2 @@
 File 2 - Initial content
+File 2 - Updated content for commit 2
